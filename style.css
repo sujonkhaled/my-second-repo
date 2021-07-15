@@ -1,10 +1,12 @@
 p{
 background-color: aliceblue;
 color:black;
-
-
 }
 h1{
     background-color: olive;
     color:black;
+}
+h2{
+    background-color: yellow;
+    color: black;
 }
